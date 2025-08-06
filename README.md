@@ -19,7 +19,7 @@ This repo showcases how to build a **Retrieval-Augmented Generation (RAG)** pipe
 
 No local setup needed — it runs on Colab!
 
-Just make sure to set your NVIDIA API key:
+Just make sure to set your NVIDIA API key.
 
 ## License
 
